@@ -3,6 +3,7 @@ This project is the result of an academic exercise consisted on designing and de
 
 # Technologies and Libs
 - HTML
+- CSS
 - Bootstrap 4.3.1
 - Font Awesome Free 5.9.0
 - Animate.css 3.7.2
