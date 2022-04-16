@@ -1,5 +1,5 @@
 # Institutional Website
-This project is the result of an academic exercise consisted on designing and developing a new institutional website for a juice company (https://www.compal.pt)
+This project is the result of an academic exercise consisted on designing and developing a new institutional website for a juice company (Original website: https://www.compal.pt )
 
 # Technologies and Libs
 - HTML
